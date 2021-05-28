@@ -1,0 +1,1226 @@
+  [
+  {
+    "nome": "Aceitunas negras",
+    "peso": 349
+  },
+  {
+    "nome": "Aceitunas verdes",
+    "peso": 132
+  },
+  {
+    "nome": "Acelgas",
+    "peso": 33
+  },
+  {
+    "nome": "Ajos",
+    "peso": 169
+  },
+  {
+    "nome": "Alcachofas",
+    "peso": 64
+  },
+  {
+    "nome": "Apio",
+    "peso": 20
+  },
+  {
+    "nome": "Berenjena",
+    "peso": 29
+  },
+  {
+    "nome": "Berros",
+    "peso": 21
+  },
+  {
+    "nome": "Brócoli",
+    "peso": 31
+  },
+  {
+    "nome": "Calabacín",
+    "peso": 31
+  },
+  {
+    "nome": "Calabaza",
+    "peso": 24
+  },
+  {
+    "nome": "Cebolla",
+    "peso": 47
+  },
+  {
+    "nome": "Cebolla tierna",
+    "peso": 39
+  },
+  {
+    "nome": "Champiñón y otras setas",
+    "peso": 28
+  },
+  {
+    "nome": "Col",
+    "peso": 28
+  },
+  {
+    "nome": "Col de Bruselas",
+    "peso": 54
+  },
+  {
+    "nome": "Coliflor",
+    "peso": 30
+  },
+  {
+    "nome": "Endibia",
+    "peso": 22
+  },
+  {
+    "nome": "Escarola",
+    "peso": 37
+  },
+  {
+    "nome": "Espárragos",
+    "peso": 26
+  },
+  {
+    "nome": "Espárragos en lata",
+    "peso": 24
+  },
+  {
+    "nome": "Espinaca",
+    "peso": 32
+  },
+  {
+    "nome": "Espinacas congeladas",
+    "peso": 25
+  },
+  {
+    "nome": "Habas tiernas",
+    "peso": 64
+  },
+  {
+    "nome": "Hinojo",
+    "peso": 16
+  },
+  {
+    "nome": "Lechuga",
+    "peso": 18
+  },
+  {
+    "nome": "Nabos",
+    "peso": 29
+  },
+  {
+    "nome": "Papas cocidas",
+    "peso": 86
+  },
+  {
+    "nome": "Pepino",
+    "peso": 12
+  },
+  {
+    "nome": "Perejil",
+    "peso": 55
+  },
+  {
+    "nome": "Pimiento",
+    "peso": 22
+  },
+  {
+    "nome": "Porotos verdes",
+    "peso": 21
+  },
+  {
+    "nome": "Puerros",
+    "peso": 42
+  },
+  {
+    "nome": "Rábanos",
+    "peso": 20
+  },
+  {
+    "nome": "Remolacha",
+    "peso": 40
+  },
+  {
+    "nome": "Repollo",
+    "peso": 19
+  },
+  {
+    "nome": "Rúcula",
+    "peso": 37
+  },
+  {
+    "nome": "Soja, Brotes de",
+    "peso": 50
+  },
+  {
+    "nome": "Tomate triturado en conserva",
+    "peso": 39
+  },
+  {
+    "nome": "Tomates",
+    "peso": 22
+  },
+  {
+    "nome": "Trufa",
+    "peso": 92
+  },
+  {
+    "nome": "Zanahoria",
+    "peso": 42
+  },
+  {
+    "nome": "Zumo de tomate",
+    "peso": 21
+  },
+  {
+    "nome": "Arándanos",
+    "peso": 41
+  },
+  {
+    "nome": "Caqui",
+    "peso": 64
+  },
+  {
+    "nome": "Cereza",
+    "peso": 47
+  },
+  {
+    "nome": "Chirimoya",
+    "peso": 78
+  },
+  {
+    "nome": "Ciruela",
+    "peso": 44
+  },
+  {
+    "nome": "Ciruela seca",
+    "peso": 290
+  },
+  {
+    "nome": "Coco",
+    "peso": 646
+  },
+  {
+    "nome": "Dátil",
+    "peso": 279
+  },
+  {
+    "nome": "Dátil seco",
+    "peso": 306
+  },
+  {
+    "nome": "Frambuesa",
+    "peso": 40
+  },
+  {
+    "nome": "Fresas",
+    "peso": 36
+  },
+  {
+    "nome": "Granada",
+    "peso": 65
+  },
+  {
+    "nome": "Grosella",
+    "peso": 37
+  },
+  {
+    "nome": "Higos",
+    "peso": 80
+  },
+  {
+    "nome": "Higos secos",
+    "peso": 275
+  },
+  {
+    "nome": "Kiwi",
+    "peso": 51
+  },
+  {
+    "nome": "Limón",
+    "peso": 39
+  },
+  {
+    "nome": "Mandarina",
+    "peso": 40
+  },
+  {
+    "nome": "Mango",
+    "peso": 57
+  },
+  {
+    "nome": "Manzana",
+    "peso": 52
+  },
+  {
+    "nome": "Melón",
+    "peso": 31
+  },
+  {
+    "nome": "Mora",
+    "peso": 37
+  },
+  {
+    "nome": "Naranja",
+    "peso": 44
+  },
+  {
+    "nome": "Nectarina",
+    "peso": 64
+  },
+  {
+    "nome": "Nísperos",
+    "peso": 97
+  },
+  {
+    "nome": "Papaya",
+    "peso": 45
+  },
+  {
+    "nome": "Pera",
+    "peso": 61
+  },
+  {
+    "nome": "Piña",
+    "peso": 51
+  },
+  {
+    "nome": "Piña en almíbar",
+    "peso": 84
+  },
+  {
+    "nome": "Plátano",
+    "peso": 90
+  },
+  {
+    "nome": "Pomelo",
+    "peso": 30
+  },
+  {
+    "nome": "Sandía",
+    "peso": 30
+  },
+  {
+    "nome": "Uva",
+    "peso": 81
+  },
+  {
+    "nome": "Uva pasa",
+    "peso": 324
+  },
+  {
+    "nome": "Zumo de fruta",
+    "peso": 45
+  },
+  {
+    "nome": "Zumo de Naranja",
+    "peso": 42
+  },
+  {
+    "nome": "Almendras",
+    "peso": 620
+  },
+  {
+    "nome": "Avellanas",
+    "peso": 675
+  },
+  {
+    "nome": "Castañas",
+    "peso": 199
+  },
+  {
+    "nome": "Maní",
+    "peso": 560
+  },
+  {
+    "nome": "Nueces",
+    "peso": 660
+  },
+  {
+    "nome": "Piñones",
+    "peso": 660
+  },
+  {
+    "nome": "Pistacho",
+    "peso": 581
+  },
+  {
+    "nome": "Cuajada",
+    "peso": 92
+  },
+  {
+    "nome": "Flan de huevo",
+    "peso": 126
+  },
+  {
+    "nome": "Flan de vainilla",
+    "peso": 102
+  },
+  {
+    "nome": "Helados lácteos",
+    "peso": 167
+  },
+  {
+    "nome": "Leche condensada c/azúcar",
+    "peso": 350
+  },
+  {
+    "nome": "Leche condensada s/azúcar",
+    "peso": 160
+  },
+  {
+    "nome": "Leche de cabra",
+    "peso": 72
+  },
+  {
+    "nome": "Leche de oveja",
+    "peso": 96
+  },
+  {
+    "nome": "Leche descremada",
+    "peso": 36
+  },
+  {
+    "nome": "Leche en polvo descremada",
+    "peso": 373
+  },
+  {
+    "nome": "Leche en polvo entera",
+    "peso": 500
+  },
+  {
+    "nome": "Leche entera",
+    "peso": 68
+  },
+  {
+    "nome": "Leche semi descremada",
+    "peso": 49
+  },
+  {
+    "nome": "Mousse",
+    "peso": 177
+  },
+  {
+    "nome": "Nata o crema de leche",
+    "peso": 298
+  },
+  {
+    "nome": "Queso blanco desnatado",
+    "peso": 70
+  },
+  {
+    "nome": "Queso Brie",
+    "peso": 263
+  },
+  {
+    "nome": "Queso cammembert",
+    "peso": 312
+  },
+  {
+    "nome": "Queso cheddar",
+    "peso": 381
+  },
+  {
+    "nome": "Queso crema",
+    "peso": 245
+  },
+  {
+    "nome": "Queso de bola",
+    "peso": 349
+  },
+  {
+    "nome": "Queso de Burgos",
+    "peso": 174
+  },
+  {
+    "nome": "Queso de oveja",
+    "peso": 245
+  },
+  {
+    "nome": "Queso edam",
+    "peso": 306
+  },
+  {
+    "nome": "Queso emmental",
+    "peso": 415
+  },
+  {
+    "nome": "Queso fundido untable",
+    "peso": 285
+  },
+  {
+    "nome": "Queso gruyere",
+    "peso": 391
+  },
+  {
+    "nome": "Queso manchego",
+    "peso": 376
+  },
+  {
+    "nome": "Queso mozzarella",
+    "peso": 245
+  },
+  {
+    "nome": "Queso parmesano",
+    "peso": 393
+  },
+  {
+    "nome": "Queso ricota",
+    "peso": 400
+  },
+  {
+    "nome": "Queso roquefort",
+    "peso": 405
+  },
+  {
+    "nome": "Requesón",
+    "peso": 96
+  },
+  {
+    "nome": "Yogur desnatado",
+    "peso": 45
+  },
+  {
+    "nome": "Yogur desnatado con frutas",
+    "peso": 82
+  },
+  {
+    "nome": "Yogur enriquecido con nata",
+    "peso": 65
+  },
+  {
+    "nome": "Yogur natural",
+    "peso": 62
+  },
+  {
+    "nome": "Yogur natural con fruta",
+    "peso": 100
+  },
+  {
+    "nome": "Bacon (Panceta ahumada)",
+    "peso": 665
+  },
+  {
+    "nome": "Butifarra cocida",
+    "peso": 390
+  },
+  {
+    "nome": "Butifarra, salchicha fresca",
+    "peso": 326
+  },
+  {
+    "nome": "Cabrito",
+    "peso": 127
+  },
+  {
+    "nome": "Cerdo, chuleta",
+    "peso": 330
+  },
+  {
+    "nome": "Cerdo, hígado",
+    "peso": 153
+  },
+  {
+    "nome": "Cerdo, lomo",
+    "peso": 208
+  },
+  {
+    "nome": "Chicharrón",
+    "peso": 601
+  },
+  {
+    "nome": "Chorizo",
+    "peso": 468
+  },
+  {
+    "nome": "Ciervo",
+    "peso": 120
+  },
+  {
+    "nome": "Codorniz y perdiz",
+    "peso": 114
+  },
+  {
+    "nome": "Conejo, liebre",
+    "peso": 162
+  },
+  {
+    "nome": "Cordero lechón",
+    "peso": 105
+  },
+  {
+    "nome": "Cordero pierna",
+    "peso": 98
+  },
+  {
+    "nome": "Cordero, costillas",
+    "peso": 215
+  },
+  {
+    "nome": "Cordero, hígado",
+    "peso": 132
+  },
+  {
+    "nome": "Faisán",
+    "peso": 144
+  },
+  {
+    "nome": "Foie-Gras",
+    "peso": 518
+  },
+  {
+    "nome": "Gallina",
+    "peso": 369
+  },
+  {
+    "nome": "Hamburguesa",
+    "peso": 230
+  },
+  {
+    "nome": "Jabalí",
+    "peso": 107
+  },
+  {
+    "nome": "Jamón",
+    "peso": 380
+  },
+  {
+    "nome": "Jamón cocido",
+    "peso": 126
+  },
+  {
+    "nome": "Jamón crudo",
+    "peso": 296
+  },
+  {
+    "nome": "Jamón York",
+    "peso": 289
+  },
+  {
+    "nome": "Lengua de vaca",
+    "peso": 191
+  },
+  {
+    "nome": "Lomo embuchado",
+    "peso": 380
+  },
+  {
+    "nome": "Mortadela",
+    "peso": 265
+  },
+  {
+    "nome": "Pato",
+    "peso": 200
+  },
+  {
+    "nome": "Pavo, Muslo",
+    "peso": 186
+  },
+  {
+    "nome": "Pavo, Pechuga",
+    "peso": 134
+  },
+  {
+    "nome": "Perdiz",
+    "peso": 120
+  },
+  {
+    "nome": "Pies de cerdo",
+    "peso": 290
+  },
+  {
+    "nome": "Pollo, Hígado",
+    "peso": 129
+  },
+  {
+    "nome": "Pollo, Muslo",
+    "peso": 186
+  },
+  {
+    "nome": "Pollo",
+    "peso": 134
+  },
+  {
+    "nome": "Salami",
+    "peso": 325
+  },
+  {
+    "nome": "Salchicha Frankfurt",
+    "peso": 315
+  },
+  {
+    "nome": "Salchichón",
+    "peso": 294
+  },
+  {
+    "nome": "Ternera",
+    "peso": 181
+  },
+  {
+    "nome": "Ternera, chuleta",
+    "peso": 168
+  },
+  {
+    "nome": "Ternera, hígado",
+    "peso": 140
+  },
+  {
+    "nome": "Ternera, lengua",
+    "peso": 207
+  },
+  {
+    "nome": "Ternera, riñón",
+    "peso": 86
+  },
+  {
+    "nome": "Ternera, sesos",
+    "peso": 125
+  },
+  {
+    "nome": "Ternera, solomillo",
+    "peso": 290
+  },
+  {
+    "nome": "Tira de asado",
+    "peso": 401
+  },
+  {
+    "nome": "Tripas",
+    "peso": 100
+  },
+  {
+    "nome": "Vacuno, Hígado",
+    "peso": 129
+  },
+  {
+    "nome": "Almejas",
+    "peso": 50
+  },
+  {
+    "nome": "Anchoas",
+    "peso": 175
+  },
+  {
+    "nome": "Anguilas",
+    "peso": 200
+  },
+  {
+    "nome": "Atún en lata con aceite vegetal",
+    "peso": 280
+  },
+  {
+    "nome": "Atún en lata con agua",
+    "peso": 127
+  },
+  {
+    "nome": "Atún fresco",
+    "peso": 225
+  },
+  {
+    "nome": "Bacalao fresco",
+    "peso": 74
+  },
+  {
+    "nome": "Bacalao seco",
+    "peso": 322
+  },
+  {
+    "nome": "Besugo",
+    "peso": 118
+  },
+  {
+    "nome": "Caballa",
+    "peso": 153
+  },
+  {
+    "nome": "Calamar",
+    "peso": 82
+  },
+  {
+    "nome": "Cangrejo",
+    "peso": 85
+  },
+  {
+    "nome": "Caviar",
+    "peso": 233
+  },
+  {
+    "nome": "Congrio",
+    "peso": 112
+  },
+  {
+    "nome": "Dorada",
+    "peso": 80
+  },
+  {
+    "nome": "Gallo",
+    "peso": 73
+  },
+  {
+    "nome": "Gambas",
+    "peso": 96
+  },
+  {
+    "nome": "Langosta",
+    "peso": 67
+  },
+  {
+    "nome": "Langostino",
+    "peso": 96
+  },
+  {
+    "nome": "Lenguado",
+    "peso": 73
+  },
+  {
+    "nome": "Lubina",
+    "peso": 118
+  },
+  {
+    "nome": "Lucio",
+    "peso": 81
+  },
+  {
+    "nome": "Mejillón",
+    "peso": 74
+  },
+  {
+    "nome": "Merluza",
+    "peso": 86
+  },
+  {
+    "nome": "Mero",
+    "peso": 118
+  },
+  {
+    "nome": "Ostras",
+    "peso": 80
+  },
+  {
+    "nome": "Pejerrey",
+    "peso": 87
+  },
+  {
+    "nome": "Pez espada",
+    "peso": 109
+  },
+  {
+    "nome": "Pulpo",
+    "peso": 57
+  },
+  {
+    "nome": "Rodaballo",
+    "peso": 81
+  },
+  {
+    "nome": "Salmón",
+    "peso": 172
+  },
+  {
+    "nome": "Salmón ahumado",
+    "peso": 154
+  },
+  {
+    "nome": "Salmonete",
+    "peso": 97
+  },
+  {
+    "nome": "Sardina en lata con aceite vegetal",
+    "peso": 192
+  },
+  {
+    "nome": "Sardinas",
+    "peso": 151
+  },
+  {
+    "nome": "Trucha",
+    "peso": 94
+  },
+  {
+    "nome": "Azúcar",
+    "peso": 380
+  },
+  {
+    "nome": "Cacao en polvo con azúcar instantáneo",
+    "peso": 366
+  },
+  {
+    "nome": "Caramelos",
+    "peso": 378
+  },
+  {
+    "nome": "Chocolate con leche",
+    "peso": 550
+  },
+  {
+    "nome": "Chocolate sin leche",
+    "peso": 530
+  },
+  {
+    "nome": "Crema chocolate con avellanas",
+    "peso": 549
+  },
+  {
+    "nome": "Dulce de membrillo",
+    "peso": 215
+  },
+  {
+    "nome": "Helados de agua",
+    "peso": 139
+  },
+  {
+    "nome": "Mermeladas con azúcar",
+    "peso": 280
+  },
+  {
+    "nome": "Mermeladas sin azúcar",
+    "peso": 145
+  },
+  {
+    "nome": "Miel",
+    "peso": 300
+  },
+  {
+    "nome": "Arroz blanco",
+    "peso": 354
+  },
+  {
+    "nome": "Arroz integral",
+    "peso": 350
+  },
+  {
+    "nome": "Avena",
+    "peso": 367
+  },
+  {
+    "nome": "Cebada",
+    "peso": 373
+  },
+  {
+    "nome": "Centeno",
+    "peso": 350
+  },
+  {
+    "nome": "Cereales con chocolate",
+    "peso": 358
+  },
+  {
+    "nome": "Cereales desayuno, con miel",
+    "peso": 386
+  },
+  {
+    "nome": "Copos de maíz",
+    "peso": 350
+  },
+  {
+    "nome": "Harina de maíz",
+    "peso": 349
+  },
+  {
+    "nome": "Harina de trigo integral",
+    "peso": 340
+  },
+  {
+    "nome": "Harina de trigo refinada",
+    "peso": 353
+  },
+  {
+    "nome": "Pan de centeno",
+    "peso": 241
+  },
+  {
+    "nome": "Pan de trigo blanco",
+    "peso": 255
+  },
+  {
+    "nome": "Pan de trigo integral",
+    "peso": 239
+  },
+  {
+    "nome": "Pan de trigo molde blanco",
+    "peso": 233
+  },
+  {
+    "nome": "Pan de trigo molde integral",
+    "peso": 216
+  },
+  {
+    "nome": "Pasta al huevo",
+    "peso": 368
+  },
+  {
+    "nome": "Pasta de sémola",
+    "peso": 361
+  },
+  {
+    "nome": "Polenta",
+    "peso": 358
+  },
+  {
+    "nome": "Sémola de trigo",
+    "peso": 368
+  },
+  {
+    "nome": "Yuca",
+    "peso": 338
+  },
+  {
+    "nome": "Garbanzos",
+    "peso": 361
+  },
+  {
+    "nome": "Judías",
+    "peso": 343
+  },
+  {
+    "nome": "Lentejas",
+    "peso": 336
+  },
+  {
+    "nome": "Clara",
+    "peso": 48
+  },
+  {
+    "nome": "Huevo duro",
+    "peso": 147
+  },
+  {
+    "nome": "Huevo entero",
+    "peso": 162
+  },
+  {
+    "nome": "Yema",
+    "peso": 368
+  },
+  {
+    "nome": "Bizcocho",
+    "peso": 456
+  },
+  {
+    "nome": "Croissant chocolate",
+    "peso": 469
+  },
+  {
+    "nome": "Croissant, donut",
+    "peso": 456
+  },
+  {
+    "nome": "Galletas de chocolate",
+    "peso": 524
+  },
+  {
+    "nome": "Galletas de mantequilla tipo “Danesas”",
+    "peso": 397
+  },
+  {
+    "nome": "Galletas saladas",
+    "peso": 464
+  },
+  {
+    "nome": "Magdalenas",
+    "peso": 469
+  },
+  {
+    "nome": "Pasta de hojaldre cocida",
+    "peso": 565
+  },
+  {
+    "nome": "Pastel de manzana",
+    "peso": 311
+  },
+  {
+    "nome": "Pastel de manzana, masa hojaldre",
+    "peso": 456
+  },
+  {
+    "nome": "Pastel de queso",
+    "peso": 414
+  },
+  {
+    "nome": "Agua ardiente",
+    "peso": 280
+  },
+  {
+    "nome": "Agua tónica",
+    "peso": 34
+  },
+  {
+    "nome": "Anís",
+    "peso": 312
+  },
+  {
+    "nome": "Batido lácteo de cacao",
+    "peso": 100
+  },
+  {
+    "nome": "Cacao en polvo sin azúcar a la taza",
+    "peso": 439
+  },
+  {
+    "nome": "Café",
+    "peso": 1
+  },
+  {
+    "nome": "Cerveza negra",
+    "peso": 37
+  },
+  {
+    "nome": "Cerveza rubia",
+    "peso": 45
+  },
+  {
+    "nome": "Champaña demi-sec",
+    "peso": 90
+  },
+  {
+    "nome": "Champaña dulce",
+    "peso": 118
+  },
+  {
+    "nome": "Champaña seca",
+    "peso": 85
+  },
+  {
+    "nome": "Coñac, brandy",
+    "peso": 243
+  },
+  {
+    "nome": "Crema de cacao",
+    "peso": 260
+  },
+  {
+    "nome": "Daiquiri",
+    "peso": 122
+  },
+  {
+    "nome": "Gin & Tónica",
+    "peso": 76
+  },
+  {
+    "nome": "Ginebra",
+    "peso": 244
+  },
+  {
+    "nome": "Leche de almendras",
+    "peso": 335
+  },
+  {
+    "nome": "Licor de caña",
+    "peso": 273
+  },
+  {
+    "nome": "Piña colada",
+    "peso": 194
+  },
+  {
+    "nome": "Pisco",
+    "peso": 210
+  },
+  {
+    "nome": "Refrescos carbonatados",
+    "peso": 48
+  },
+  {
+    "nome": "Ron",
+    "peso": 244
+  },
+  {
+    "nome": "Sidra dulce",
+    "peso": 33
+  },
+  {
+    "nome": "Sidra seca",
+    "peso": 35
+  },
+  {
+    "nome": "Té",
+    "peso": 1
+  },
+  {
+    "nome": "Vermouth amargo",
+    "peso": 112
+  },
+  {
+    "nome": "Vermouth dulce",
+    "peso": 160
+  },
+  {
+    "nome": "Vino de mesa",
+    "peso": 70
+  },
+  {
+    "nome": "Vino dulce, jerez",
+    "peso": 160
+  },
+  {
+    "nome": "Vino oporto",
+    "peso": 160
+  },
+  {
+    "nome": "Vodka",
+    "peso": 315
+  },
+  {
+    "nome": "Whisky",
+    "peso": 244
+  },
+  {
+    "nome": "Aceite de girasol",
+    "peso": 900
+  },
+  {
+    "nome": "Aceite de oliva",
+    "peso": 900
+  },
+  {
+    "nome": "Manteca",
+    "peso": 670
+  },
+  {
+    "nome": "Mantequilla",
+    "peso": 752
+  },
+  {
+    "nome": "Margarina vegetal",
+    "peso": 752
+  },
+  {
+    "nome": "Bechamel",
+    "peso": 115
+  },
+  {
+    "nome": "Caldos concentrados",
+    "peso": 259
+  },
+  {
+    "nome": "Ketchup",
+    "peso": 98
+  },
+  {
+    "nome": "Mayonesa",
+    "peso": 718
+  },
+  {
+    "nome": "Mayonesa light",
+    "peso": 374
+  },
+  {
+    "nome": "Mostaza",
+    "peso": 15
+  },
+  {
+    "nome": "Salsa de soja",
+    "peso": 61
+  },
+  {
+    "nome": "Salsa de tomate en conserva",
+    "peso": 86
+  },
+  {
+    "nome": "Sofrito",
+    "peso": 116
+  },
+  {
+    "nome": "Vinagres",
+    "peso": 8
+  }
+]
